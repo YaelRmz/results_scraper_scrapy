@@ -1,2 +1,2 @@
 # scraper_scrapy
-Projecto scraper con framework Scrapy
+Resultados scraper con framework Scrapy
